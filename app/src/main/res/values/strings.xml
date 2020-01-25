@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HomeWork_WhatsApp_ConstraintLayout</string>
+
+    <string-array name="forSpinnerNames">
+
+        <item>Андрей</item>
+        <item>Петр</item>
+        <item>Иван</item>
+        <item>Алексей</item>
+        <item>Игорь</item>
+
+    </string-array>
+    
+    <string-array name="forSpinnerGroups">
+
+        <item>Тренажерка</item>
+        <item>Учеба</item>
+        <item>Друзья</item>
+
+    </string-array>
+</resources>
